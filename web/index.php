@@ -27,7 +27,10 @@
  */
 
 require_once 'includes/config.php';
-
+echo "THERE WILL BE BUGS"
+echo "THERE WILL BE BUGS"
+echo "THERE MAY BE BUGS"
+echo "THERE ARE BUGS"
 function sort_news_and_events($a, $b)
 {
     if ($a['date'] == $b['date']) {
